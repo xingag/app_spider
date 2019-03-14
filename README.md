@@ -2,12 +2,13 @@
 
 ## Appium
 
-* [使用appium+mitmproxy爬取当当网的数据](./dangdang/)
+* [使用 appium + mitmproxy 爬取当当网的数据](./dangdang/)
 
 
 
-### Airtest
+## Airtest
 
-* [使用Airtest抢微信群红包](./抢红包/)
+* [使用 Airtest 抢微信群红包](./抢红包/)
 * [薅羊毛-东方头条](./东方头条/)
+* [使用 Airtest 爬取微信朋友圈](./微信朋友圈)
 

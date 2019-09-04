@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="20dip">
+
+
+        <TextView
+            android:id="@+id/status_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/status"
+            android:textSize="30sp" />
+
+
+        <Button
+            android:id="@+id/start_service_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dip"
+            android:text="@string/start_service"
+            android:textSize="30sp" />
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/norm_operate_btn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="30dip"
+                android:text="@string/delivery_rebot_operation"
+                android:textSize="30sp" />
+
+        </LinearLayout>
+
+        <EditText
+            android:padding="5dip"
+            android:background="@drawable/order_edt_note_bg"
+            android:id="@+id/delivery_rebot_content_et"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dip"
+            android:gravity="top|left"
+            android:hint="请输入发货连接"
+            android:minLines="3" />
+
+
+        <Button
+            android:textSize="30sp"
+            android:id="@+id/delivery_rebot_set_content_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dip"
+            android:text="设置发货内容" />
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dip"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:paddingTop="10dip">
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="50dip"
+                android:gravity="center_vertical"
+                android:text="自动发货机器人："
+                android:textColor="#ff0000"
+                android:textSize="18sp" />
+
+            <com.suke.widget.SwitchButton
+                android:id="@+id/delivery_rebot_switch"
+                android:layout_width="100dip"
+                android:layout_height="50dip"
+                android:layout_marginLeft="5dip" />
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+</ScrollView>

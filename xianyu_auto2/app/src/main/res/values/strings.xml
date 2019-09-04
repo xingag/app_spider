@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">闲鱼自动化运营</string>
+    <string name="on">开启</string>
+    <string name="off">关闭</string>
+    <string name="status">当前状态：%s</string>
+    <string name="start_service">开启服务</string>
+    <string name="delivery_rebot_operation">自动发货机器人 (状态：%s)</string>
+</resources>

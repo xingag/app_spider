@@ -38,6 +38,8 @@
 
 * [获取暗恋女生的全名](./暗恋女生的名字/)
 
+* [Python 带你环球旅行](./mock_gps/)
+
 ## UIAutomator2
 
 * [脱离PC，使用 UIAutomator2 自动化阅读新闻客户端](./薅羊毛/)

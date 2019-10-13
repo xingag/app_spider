@@ -40,6 +40,8 @@
 
 * [Python 带你环球旅行](./mock_gps/)
 
+* [自动化薅羊毛-完结版](./scalp/)
+
 ## UIAutomator2
 
 * [脱离PC，使用 UIAutomator2 自动化阅读新闻客户端](./薅羊毛/)

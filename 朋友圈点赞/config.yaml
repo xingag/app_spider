@@ -1,0 +1,14 @@
+tag:
+  id:
+    id_page_main_discover: 'com.tencent.mm:id/cw2'   # 主页：发现按钮
+    id_page_friend_circle_listview: 'com.tencent.mm:id/e2p'   # 朋友圈页面：动态列表
+    id_page_friend_circle_item: 'com.tencent.mm:id/e6t'   # 朋友圈页面：每一项动态
+    id_page_friend_circle_item_title: 'com.tencent.mm:id/e6x'  # 朋友圈页面：动态标题文本
+    id_page_friend_circle_item_friend_name: 'com.tencent.mm:id/azl'  # 朋友圈页面：动态的发布者
+    id_page_friend_circle_item_publish_time: 'com.tencent.mm:id/e25'   # 朋友圈页面：动态发布时间
+    id_page_friend_circle_approve_button_pre: 'com.tencent.mm:id/e2c'  # 朋友圈页面：动态点赞入口按钮
+    id_page_friend_circle_approve_status: 'com.tencent.mm:id/e1l'  # 朋友圈页面：动态点赞状态文本（赞或者取消）
+    id_page_friend_circle_approve_button: 'com.tencent.mm:id/e1k'  # 朋友圈页面：每一个动态的点赞按钮
+  text:
+    discover: '发现'
+    friend_circle: '朋友圈'

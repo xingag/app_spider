@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">readMsg</string>
+    <string name="desc">读一读（AirPython）</string>
+</resources>

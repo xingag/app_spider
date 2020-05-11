@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/bg_corner"
+    android:padding="2dip"
+    android:gravity="right"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/ivClose"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:padding="10dp"
+        android:src="@mipmap/icon_close" />
+
+    <CheckBox
+        android:layout_marginTop="20dip"
+        android:textSize="15sp"
+        android:id="@+id/float_cb"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:checked="false"
+        android:text="播放"
+        android:textColor="#ffffff" />
+
+</LinearLayout>

@@ -12,6 +12,8 @@
 
 * [使用 appium + mitmproxy 爬取当当网的数据](./dangdang/)
 
+* [每日新闻](./每日新闻)
+
   
 
 

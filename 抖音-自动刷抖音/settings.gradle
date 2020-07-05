@@ -1,0 +1,2 @@
+rootProject.name='dy_auto'
+include ':app'

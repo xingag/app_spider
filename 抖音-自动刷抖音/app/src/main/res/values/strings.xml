@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">dy_auto</string>
+
+    <!--    抖音配置信息-->
+    <!--    抖音应用包名和首页Activity-->
+    <string name="package_name_dy">com.ss.android.ugc.aweme</string>
+    <string name="activity_name_dy">com.ss.android.ugc.aweme.splash.SplashActivity</string>
+    <string name="desc">自动刷抖音，完全解放双手</string>
+
+
+</resources>

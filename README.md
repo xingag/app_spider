@@ -2,6 +2,10 @@
 
 ## 详细教程
 
+[爬虫防封问题戳图片注册可得充裕流量使用，可有效保护账号](https://www.ipwo.net/user/register?ref=githubxingag)
+
+![](./raw/spider.png)
+
 如果想查看详细教程，请关注微信公众号：**AirPython**
 
 ![](./raw/qr.jpeg)
